@@ -1,0 +1,2 @@
+/*jslint forin: true, eqeq: true, node: true, browser: true, nomen: true, es5: true, undef: true, bitwise: true, indent: 2, maxlen: 120 */
+/*global jQuery, $, describe, beforeEach, afterEach, it, Backbone, _ */

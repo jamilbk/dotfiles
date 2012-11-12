@@ -1,0 +1,6 @@
+--type-set=haml=.haml
+--type-set=coffee=.coffee
+--type-set=sass=.scss
+--type-set=javascript=.js
+--ignore-dir=node_modules
+--ignore-dir=coverage

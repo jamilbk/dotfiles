@@ -1,0 +1,13 @@
+[user]
+	name = Jamil Bou Kheir
+	email = jamilboukheir@me.com
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+[core]
+	excludesfile = /Users/jamil/.gitignore
+	quotepath = false
+[push]
+	default = simple
